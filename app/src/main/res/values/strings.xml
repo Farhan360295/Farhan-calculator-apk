@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Farhan Calc</string>
+    <string name="brand_name">FARHAN</string>
+    <string name="brand_full_name">FARHAN CALCULATOR</string>
+    <string name="badge_scientific">SCIENTIFIC</string>
+    <string name="badge_deg">DEG</string>
+    <string name="badge_first_project">✦ FIRST PROJECT • 8 MAY 2026</string>
+    <string name="hero_tagline">Simple calculations. Powerful features. Your smart scientific calculator.</string>
+
+    <string name="status_ready">READY TO CALCULATE</string>
+    <string name="status_calculating">CALCULATING…</string>
+    <string name="status_success">CALCULATION SUCCESSFUL</string>
+    <string name="status_op_calculated">%1$s CALCULATED</string>
+
+    <string name="err_invalid_expression">Invalid expression</string>
+    <string name="err_division_zero">Division by zero</string>
+    <string name="err_invalid_result">Invalid result</string>
+    <string name="err_enter_number">Enter a number first</string>
+    <string name="err_tan_undefined">Tangent undefined</string>
+    <string name="err_invalid_sqrt">Invalid square root</string>
+    <string name="err_positive_number">Enter positive number</string>
+    <string name="err_factorial_range">Use an integer from 0 to 170</string>
+
+    <string name="section_scientific">SCIENTIFIC OPERATIONS</string>
+    <string name="section_features">Powerful Calculator Features</string>
+    <string name="feature_basic_title">Basic Mathematics</string>
+    <string name="feature_basic_desc">Addition, subtraction, multiplication and division with full operator precedence.</string>
+    <string name="feature_trig_title">Trigonometry</string>
+    <string name="feature_trig_desc">Calculate sine, cosine and tangent accurately in degrees.</string>
+    <string name="feature_adv_title">Advanced Maths</string>
+    <string name="feature_adv_desc">Power, factorial, natural and base-10 logarithms, squares and square roots.</string>
+
+    <string name="footer_credit">Designed and developed with passion by FARHAN.</string>
+    <string name="footer_copyright">© 2026 All Rights Reserved.</string>
+
+    <string name="history_title">Calculation History</string>
+    <string name="history_empty_title">No calculations yet</string>
+    <string name="history_empty_desc">Tap = after an expression to save it here for quick reuse.</string>
+    <string name="history_clear">Clear All</string>
+    <string name="copied_to_clipboard">Copied to clipboard</string>
+
+    <string name="cd_history">Calculation history</string>
+    <string name="cd_info">Features and about</string>
+    <string name="cd_toggle_theme">Switch color theme</string>
+    <string name="cd_copy_result">Copy result</string>
+    <string name="cd_backspace">Delete last character</string>
+    <string name="cd_clear_all">Clear all</string>
+    <string name="cd_equals">Calculate result</string>
+    <string name="cd_close">Close</string>
+</resources>
